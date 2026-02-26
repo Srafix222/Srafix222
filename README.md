@@ -1,4 +1,4 @@
-## Hi I'm Micha 👋
+## Hi I'm Micah 👋
 
 # 💫 About Me:
 I help businesses and organizations stand out through creative branding, modern web development, and impactful visual storytelling powered by AI-driven solutions.<br><br>As the Founder of Srafix Ink Design, I combine graphic design expertise, frontend development skills, and AI literacy to create visuals and digital platforms that don’t just look good — they drive growth and measurable results.<br><br>From crafting distinctive brand identities to building responsive web applications and training teams on AI tools, my work sits at the intersection of creativity and technology.<br><br>💡 What I Do Best<br><br>🎨 Branding & Visual Identity<br>🌍 Web Design & Frontend Development (React, Vite, npm, VS Code)<br>🖥 AI-Powered Graphic & Marketing Solutions<br>📚 AI Literacy Training for Teams<br>✍ Content Creation & Strategic Storytelling<br><br>
